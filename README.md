@@ -1,4 +1,4 @@
-# newsapi-python
+# News_Preview-api-python
 
 A Python client for the [News API](https://newsapi.org/docs/).
 
@@ -9,7 +9,7 @@ A Python client for the [News API](https://newsapi.org/docs/).
 
 ## License
 
-Provided under [MIT License](https://github.com/mattlisiv/newsapi-python/blob/master/LICENSE.txt) by Matt Lisivick.
+Provided under [MIT License](https://github.com/mattlisiv/newsapi-python/blob/master/LICENSE.txt) 
 
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
