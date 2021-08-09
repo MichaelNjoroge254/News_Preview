@@ -1,5 +1,9 @@
 # News_Preview-api-python
 
+## An application that will help you list and preview news articles from various sources
+
+## By Michael Njoroge
+
 A Python client for the [News API](https://newsapi.org/docs/).
 
 [![License](https://img.shields.io/github/license/mattlisiv/newsapi-python.svg)](https://github.com/mattlisiv/newsapi-python/blob/master/LICENSE.txt)
@@ -100,4 +104,4 @@ Another option is hardcoding your console to only print in utf-8. This is a bad 
 ## Support
 
 Feel free to make suggestions or provide feedback regarding the library. Thanks.
-Reach out at [lisivickmatt@gmail.com]('mailto:lisivickmatt@gmail.com')
+Reach out at [michael.m.njoroge254@gmail.com]('mailto:michael.m.njoroge254@gmail.com')
